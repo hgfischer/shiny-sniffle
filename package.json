@@ -1,0 +1,25 @@
+{
+  "name": "shiny-sniffle",
+  "version": "0.0.1",
+  "description": "generic web app backed by go",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "make test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hgfischer/shiny-sniffle.git"
+  },
+  "keywords": [
+    "angularjs",
+    "golang"
+  ],
+  "author": "Herbert Fischer",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hgfischer/shiny-sniffle/issues"
+  },
+  "homepage": "https://github.com/hgfischer/shiny-sniffle#readme"
+}
